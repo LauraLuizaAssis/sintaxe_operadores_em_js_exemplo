@@ -3,7 +3,7 @@ var lastName = "Souza"
 
 if(firstName === 'João');{
     var firstName = 'Pedro';
-    let lastName = 'Silva;'
+    let lastName = 'Ana;'
 }
 
 console.log(firstName, lastName);
