@@ -11,7 +11,7 @@ console.log(firstName, lastName);
 
 
 
-const FIRST_NAME = "Bruna";
+const FIRST_NAME = "Alice";
 
 console.log(FIRST_NAME);
 
